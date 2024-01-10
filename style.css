@@ -3,6 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+@font-face {
+    font-family: 'Kajiro';
+    src: url('fonts/Kajiro\ Bold.ttf') format('ttf');
+}
 
 html,body{
     width: 100%;

@@ -23,15 +23,11 @@ Getting Started
 To run this project locally, follow these steps:
 
 Clone the repository:
+`git clone https://github.com/akshansh-bhardwaj/rayban-fun-project.git`
 
-bash
-Copy code
-git clone https://github.com/akshansh-bhardwaj/rayban-fun-project.git
 Open the project folder:
+`cd rayban-page-concept`
 
-bash
-Copy code
-cd rayban-page-concept
 Open the index.html file in your preferred web browser.
 
 Contributions
